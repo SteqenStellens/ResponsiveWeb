@@ -1,2 +1,0 @@
-# ResponsiveWeb
-Design Responsive Website
